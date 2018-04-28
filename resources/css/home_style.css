@@ -1,0 +1,76 @@
+.me_header {
+    display: block;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 4px white solid;
+}
+
+.me_intro_header {
+    display: block;
+    text-align: center;
+}
+
+.links_banner {
+    border-radius: 100%;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    color: #202020;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.links_banner:hover {
+    color: white;
+    background-color: #181818;
+}
+
+.links_banner:active {
+    color: white;
+    background-color: #181818;
+}
+
+.header {
+    background-color: #202020;
+}
+
+.ajai {
+    font-size: 45px;
+    font-family: monospace;
+    color: white;
+}
+
+.contents {
+    display: block;
+    font-size: 45px;
+    font-family: monospace;
+    color: white;
+}
+
+.line {
+    width: 120px;
+    border-bottom: 7px solid white;
+    position: absolute;
+}
+
+.programmer {
+    color: white;
+}
+
+.icons_header {
+    color: white;
+    background-color: white;
+}
+
+.nav_bar_mine {
+    background-color: rgb(24, 24, 24, 0.8);
+}
+
+.nav_bar_contents {
+    color: white;
+    font-size: 20px;
+}
